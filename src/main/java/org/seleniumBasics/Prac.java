@@ -51,6 +51,7 @@ public class Prac {
         {
             FileHandler.copy(screenshotFile,new File(".//screenshots//ss.jpg"));
         }
+        System.out.println(driver);
         WebDriverWait wait=new WebDriverWait(driver, Duration.ofSeconds(10));
     }
 
