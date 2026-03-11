@@ -53,6 +53,9 @@ public class Prac {
         }
         System.out.println("Hello bro");
         System.out.println(driver);
+
+
+        System.out.println("Please create a pull reuest resource 1");
         WebDriverWait wait=new WebDriverWait(driver, Duration.ofSeconds(10));
     }
 
