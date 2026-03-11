@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-06T11:07:14 IST" name="Default Suite" finished-at="2025-08-06T11:08:18 IST" duration-ms="64767">
+    <groups>
+    </groups>
+    <test started-at="2025-08-06T11:07:14 IST" name="SeleniumBasics" finished-at="2025-08-06T11:08:18 IST" duration-ms="64767">
+      <class name="org.seleniumBasics.Hello">
+        <test-method signature="main(java.lang.String,java.lang.String)[pri:0, instance:org.seleniumBasics.Hello@2a65fe7c]" started-at="2025-08-06T11:07:14 IST" name="main" data-provider="login" finished-at="2025-08-06T11:07:24 IST" duration-ms="10417" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[stalin@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method signature="main(java.lang.String,java.lang.String)[pri:0, instance:org.seleniumBasics.Hello@2a65fe7c]" started-at="2025-08-06T11:07:24 IST" name="main" data-provider="login" finished-at="2025-08-06T11:07:32 IST" duration-ms="7519" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mukesh@gmail.com ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass124 ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method signature="main(java.lang.String,java.lang.String)[pri:0, instance:org.seleniumBasics.Hello@2a65fe7c]" started-at="2025-08-06T11:07:32 IST" name="main" data-provider="login" finished-at="2025-08-06T11:07:46 IST" duration-ms="14558" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[stalinmukesh@gmail.com ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass124 ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method signature="main(java.lang.String,java.lang.String)[pri:0, instance:org.seleniumBasics.Hello@2a65fe7c]" started-at="2025-08-06T11:07:46 IST" name="main" data-provider="login" finished-at="2025-08-06T11:08:08 IST" duration-ms="21697" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[staalss@gmail.com ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass124 ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method signature="main(java.lang.String,java.lang.String)[pri:0, instance:org.seleniumBasics.Hello@2a65fe7c]" started-at="2025-08-06T11:08:08 IST" name="main" data-provider="login" finished-at="2025-08-06T11:08:18 IST" duration-ms="10500" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[magtie@gmail.com ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass124 ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- org.seleniumBasics.Hello -->
+    </test> <!-- SeleniumBasics -->
+  </suite> <!-- Default Suite -->
+</testng-results>
