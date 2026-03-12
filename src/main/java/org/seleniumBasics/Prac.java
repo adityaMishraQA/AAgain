@@ -65,6 +65,11 @@ public class Prac {
 
 
         System.out.println("Final update before EOD in console");
+
+
+
+        System.out.println("Final merge changes");
+
         WebDriverWait wait=new WebDriverWait(driver, Duration.ofSeconds(10));
     }
 
