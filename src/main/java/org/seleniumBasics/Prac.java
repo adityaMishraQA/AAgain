@@ -56,6 +56,9 @@ public class Prac {
 
 
         System.out.println("Please create a pull reuest resource 1");
+
+
+        System.out.println("morning update from resource 1 in console");
         WebDriverWait wait=new WebDriverWait(driver, Duration.ofSeconds(10));
     }
 
