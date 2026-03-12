@@ -59,6 +59,9 @@ public class Prac {
 
 
         System.out.println("morning update from resource 1 in console");
+
+
+        System.out.println("Before lunch changes");
         WebDriverWait wait=new WebDriverWait(driver, Duration.ofSeconds(10));
     }
 
